@@ -1,6 +1,20 @@
 In **BIN** Folder I Coded For Assaignment_01.
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
