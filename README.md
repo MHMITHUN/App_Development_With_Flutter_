@@ -1,4 +1,12 @@
-In BIN Folder I Coded For Assaignment_01.
+In **BIN** Folder I Coded For Assaignment_01.
+
+
+
+
+
+
+
+
 
 
 
